@@ -2,7 +2,7 @@
 - 👀 I’m interested in codes
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on challenging and exciting projects
-- 📫 How to reach me eboseoseghsale00@gmail.com
+- 📫 How to reach me eboseoseghale00@gmail.com
 
 <!---
 Ebose77/Ebose77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
